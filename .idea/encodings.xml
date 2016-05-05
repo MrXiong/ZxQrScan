@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/CaptureActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/ZbarManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/bitmap/InvertedLuminanceSource.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/bitmap/LuminanceSource.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/bitmap/PlanarYUVLuminanceSource.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/camera/AutoFocusCallback.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/camera/CameraConfigurationManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/camera/CameraManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/camera/FlashlightManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/camera/PreviewCallback.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/decode/CaptureActivityHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/decode/DecodeHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/decode/DecodeThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/decode/FinishListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zbar/lib/decode/InactivityTimer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/armeabi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/capture.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_qr_scan.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/scan_line.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/scan_mask.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
